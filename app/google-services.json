@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346449915438",
+    "project_id": "nocrime-d8841",
+    "storage_bucket": "nocrime-d8841.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346449915438:android:0bb127875cfc43fff239bf",
+        "android_client_info": {
+          "package_name": "com.example.nocrime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdziy56AL2Px7U2LgaDXMebYU1_u2q84I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
